@@ -15,8 +15,8 @@ https://ruetz.de/en/testing/products/index.php
 
 Usage:
 ```
-$ python ibox_remote_HCS.py -h
-usage: ibox_remote_HCS.py [-h] -p PORT [--check_clamps] [--check_firmware] [--start_clamps] [--shutdown_clamps] [--turn_on {cl30,cl30f,cl30b,mute,obd}] [--turn_off {cl30,cl30f,cl30b,mute,obd}] [--restart {cl30,cl30f,cl30b,mute,obd}]
+$ python ibox4_0_remote_controller.py -h
+usage: ibox4_0_remote_controller.py [-h] -p PORT [--check_clamps] [--check_firmware] [--start_clamps] [--shutdown_clamps] [--turn_on {cl30,cl30f,cl30b,mute,obd}] [--turn_off {cl30,cl30f,cl30b,mute,obd}] [--restart {cl30,cl30f,cl30b,mute,obd}]
  
 Ruetz Ibox Host PC Controller
  
